@@ -22,7 +22,7 @@ You will need one of the AMQP brokers to actually use AMQP to communicate betwee
 
 The following assumes installation on each Linux distribution, Ubuntu or debian.
 
-### How to install when using OpenRTM-aist of ver.1.2.x
+### How to install when using OpenRTM-aist ver.1.2.x
 
 (1) For details on how to install OpenRTM-aist-C++, please refer to the official OpenRTM-aist website of the National Institute of Advanced Industrial Science and Technology (AIST). We omit it here.
 
