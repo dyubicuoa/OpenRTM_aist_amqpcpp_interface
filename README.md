@@ -46,4 +46,4 @@ $ make
 
 This will create **OutPortAmqpcppProducer.so**, an AMQP transmitter module, and **InPortAmqpcppConsumer.so**, an AMQP receiver module, under `~/OpenRTM_aist_amqpcpp_interface/build/src`.
 
-(5) If necessary, install one of the AMQP-enabled broker software; RabbitMQ ｓerver is recommended, see the RabbitMQ official website for installation instructions. As RabbitMQ is an erlang implementation, it also requires a set of erlang-related packages, which makes the installation a bit more complicated.
+(5) If necessary, install one of the AMQP-enabled broker software; RabbitMQ server is recommended, see the RabbitMQ official website for installation instructions. As RabbitMQ is an erlang implementation, it also requires a set of erlang-related packages, which makes the installation a bit more complicated.
